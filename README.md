@@ -14,7 +14,7 @@
 
 - 🔭 I get an idea, and I build it — usually a tool that fixes something annoying for me first.
 - 🌱 I'm hooked on learning programming — if you're willing to teach me something, my answer is already **YES**.
-- 💻 Building mostly on a modest setup (Intel Iris Xe integrated GPU) — which is exactly why tools like *Can I Run IT* exist.
+- 💻 Building mostly on a modest setup (Intel(R) UHD Graphics integrated GPU) — which is exactly why tools like *Can I Run IT* exist.
 - 🎮 When I'm not coding, I'm probably gaming.
 
 ---
