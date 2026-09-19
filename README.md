@@ -16,8 +16,6 @@
 - 🌱 I'm hooked on learning programming — if you're willing to teach me something, my answer is already **YES**.
 - 💻 Building mostly on a modest setup (Intel(R) UHD Graphics integrated GPU) — which is exactly why tools like *Can I Run IT* exist.
 - 🎮 When I'm not coding, I'm probably gaming.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X2H42410PD)
 ---
 
 ### 🚀 What I'm Building Right Now
